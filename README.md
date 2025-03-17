@@ -1,6 +1,9 @@
-# Travel Mate
+# Travel Mate(Under Development)
 
 Travel Mate is a travel platform designed to help users explore Sri Lanka, find the best travel destinations, and plan their journeys effortlessly.
+
+## Live Demo
+https://travel-mate-lovat.vercel.app/
 
 ## Project Status
 This project is currently under maintenance.
